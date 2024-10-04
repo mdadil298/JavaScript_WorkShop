@@ -1,10 +1,11 @@
-let score = "hitesh"
+// let score = "hitesh"
+let score = 2
 
-//console.log(typeof score);
+// console.log(typeof score);
 //console.log(typeof(score));
 
 let valueInNumber = Number(score)
-//console.log(typeof valueInNumber);
+// console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
 
@@ -15,7 +16,8 @@ let valueInNumber = Number(score)
 let isLoggedIn = "hitesh"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-//  console.log(booleanIsLoggedIn);
+ console.log(booleanIsLoggedIn);
+ console.log(typeof Boolean);
 
 // 1 => true; 0 => false
 // "" => false
